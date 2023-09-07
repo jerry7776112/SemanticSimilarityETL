@@ -1,0 +1,6 @@
+psycopg2==2.9.3 
+sentence-transformers==2.2.2
+Flask==2.1.2
+pandas==1.4.3
+numpy==1.23.0
+pymongo==4.1.1
