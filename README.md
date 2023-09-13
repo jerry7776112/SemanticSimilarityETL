@@ -1,6 +1,7 @@
 # SemanticSimilarityETL
 ## 專案說明
-### 專案名稱: ETL 語意相似度分析(詳情請參閱 SemanticSimilarityETL實作說明 pdf 檔案)
+### 專案名稱: ETL 語意相似度分析
+**(詳情請參閱 SemanticSimilarityETL實作說明.pdf 檔案)**
 ### ETL實作
 * 使用社群平台資料集作為MetaData建置於PostgreSQL
 * 利用Sentence-BERT語言模型將資料集進行語意相似度分析
